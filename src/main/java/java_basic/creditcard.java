@@ -53,7 +53,7 @@ public class creditcard {
         }
 
         else {
-            System.out.println("you are not eligible for the loan");
+            System.out.println("you are not eligible for the loaan");
         }
 
             }
