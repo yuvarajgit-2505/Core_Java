@@ -23,5 +23,8 @@ public class Neww {
         Neww obj= new Neww();
         obj.makrs();
     }
+
 }
+//task
+//weight and level of games can play
 
