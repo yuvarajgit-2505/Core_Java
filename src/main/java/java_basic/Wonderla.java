@@ -3,7 +3,7 @@ package java_basic;
 
 import java.util.Scanner;
 
-public class practice {
+public class Wonderla {
     public static void main(String[] args) {
         System.out.println("WELCOME TO WONDERLA");
         System.out.println("Enter your age:");
