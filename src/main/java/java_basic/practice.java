@@ -5,7 +5,7 @@ import javax.sound.midi.Soundbank;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class practice {
+public class wonderla {
     public static void main(String[] args) {
         System.out.println("WELCOME TO WONDERLA");
         System.out.println("Enter your age");
